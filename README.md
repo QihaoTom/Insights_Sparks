@@ -21,3 +21,11 @@
 ↵†Corresponding author. Email: keith.chen@anderson.ucla.edu
 ↵* These authors contributed equally to this work.
 
+* [Does Performance Matter? Evaluating Political Selection along the Chinese Administrative Ladder](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2452482)
+>Pierre F. Landry
+University of Pittsburgh
+Xiaobo Lü
+University of Texas at Austin
+Haiyan Duan
+East China University of Political Science and Law (ECUPL)
+Date Written: June 25, 2017
