@@ -12,7 +12,7 @@
 * [许亮](http://www.sis.pku.edu.cn/teachers/xuliang17/) | “全球性中国的幽灵”：以中非关系的三个“面像”为例 | 北京大学国际关系学院 哈佛大学历史系博士 非洲研究 | 20180603
 
 ## Update Research
-* [Social science lines up its biggest challenges | ***Nature** 470, 18-19(2011)*]() 
+* [Social science lines up its biggest challenges | ***Nature** 470, 18-19(2011)*](https://github.com/QihaoTom/Insights_Sparks_SocialScience/blob/master/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E7%9A%84%E5%8D%81%E5%A4%A7%E9%97%AE%E9%A2%98%20%7C%200419.md) 
 
 * [The effect of partisanship and political advertising on close family ties](http://science.sciencemag.org/content/360/6392/1020/tab-article-info) | 20180603
 >M. Keith Chen1,*,†, Ryne Rohla2,*
