@@ -29,3 +29,6 @@ University of Texas at Austin
 Haiyan Duan
 East China University of Political Science and Law (ECUPL)
 Date Written: June 25, 2017
+
+* [Information Manipulation and Reform in Authoritarian Regimes](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/div-classtitleinformation-manipulation-and-reform-in-authoritarian-regimesa-hreffn1-ref-typefnadiv/4738BBB622713AA29030A5615B52062C)
+>Jidong Chen is an Assistant Professor in the Beijing Normal University Business School, Rear Main Building, Beijing Normal University, 19 Xinjiekouwai St., Beijing 100875, China; Visiting fellow, Wallis Institute of Political Economy, University of Rochester, 107 Harkness Hall, Box 027-0158, University of Rochester, Rochester, NY 14627, USA (jidongc@princeton.edu). Yiqing Xu is a PhD Candidate in the Department of Political Science, Massachusetts Institute of Technology, 77 Mass. Ave, E53-470, Cambridge, MA 02142, USA (xyq@mit.edu). The authors are indebted to Jonathan Hanson, Mehdi Shadmehr and two anonymous referees for their helpful comments and suggestions.
