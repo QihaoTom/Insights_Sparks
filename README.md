@@ -13,6 +13,8 @@
 
 * [John A. List](http://www.nber.org/people/john_list) | Field Experiments | Department of Economics, University of Chicago |20180604
 
+* [Joshua Angrist](http://economics.mit.edu/faculty/angrist/publications) | Matstering Metrics | MIT Economics
+
 ## Update Research
 * [Social science lines up its biggest challenges | ***Nature** 470, 18-19(2011)*](https://github.com/QihaoTom/Insights_Sparks_SocialScience/blob/master/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E7%9A%84%E5%8D%81%E5%A4%A7%E9%97%AE%E9%A2%98%20%7C%200419.md) 
 
