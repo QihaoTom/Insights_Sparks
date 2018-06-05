@@ -5,7 +5,9 @@
 *sociology*, *economy*, etc, which might be helpful for our rethinking about our on research
 
 ## Scholar's Face
-* 周亚虹 | 上海财经大学
+* 朱洪泉 | Prosocial Values of Top Executives and Corporate Governance in China | Arizona State University
+
+* 周亚虹 | 上海财经大学 | 20180601
 
 * [張俊森](http://www.econ.cuhk.edu.hk/econ/en-gb/people/faculty?view=faculty&id=jszhang) | M. Rosenzweig and J. Zhang, "Do Population Control Policies Induce More Human Capital Investment? Twins, Birthweight, and China's 'One Child' Policy," Review of Economic Studies, (July 2009) 76(3): 1149-1174. | 香港中文大学 | 20180602
 
