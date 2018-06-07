@@ -21,6 +21,8 @@
 
 * [王裕华](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1309828) | 哈佛大学政府系 | DID，RDD，IV | 20180606
 
+* [陈昭全]() | Rutgers University
+
 ## Update Research
 * [Social science lines up its biggest challenges | ***Nature** 470, 18-19(2011)*](https://github.com/QihaoTom/Insights_Sparks_SocialScience/blob/master/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E7%9A%84%E5%8D%81%E5%A4%A7%E9%97%AE%E9%A2%98%20%7C%200419.md) 
 
