@@ -53,3 +53,14 @@ Massachusetts Institute of Technology (MIT) - Sloan School of Management
 Francis Fukuyama
 Stanford University - Freeman Spogli Institute for International Studies
 Date Written: November 23, 2016
+
+>In this part, I would strongly thank to professors from different school in Nanjing University where they give me the courage and new ideas to deepen understand what is real rigorous study and what the best stduy look like.
+* [王成军](https://github.com/computational-class/cc2018/blob/02876668639bac591d177624d743efa3f5174e65/introduction/01.intro2cjc.ipynb) | 南京大学新闻传播学院
+* [杨柳]() | 南京大学经济学系
+* [陈云松]() | 南京大学社会学系
+* [吴愈晓]() | 南京大学社会学系
+* [卢翠翠]() | 南京大学经济学系
+
+
+
+
