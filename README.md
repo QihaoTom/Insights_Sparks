@@ -58,7 +58,7 @@ Date Written: November 23, 2016
 >In this part, I would strongly thank to professors from different school in Nanjing University where they give me the courage and new ideas to deeply understand what is a real rigorous study and what the best study looks like.
 * [王成军](https://github.com/computational-class/cc2018/blob/02876668639bac591d177624d743efa3f5174e65/introduction/01.intro2cjc.ipynb) | 南京大学新闻传播学院
 * [杨柳]() | 南京大学经济学系
-* [陈云松]() | 南京大学社会学系
+* [陈云松](https://github.com/QihaoTom/Book_Reference_PA/blob/master/%E9%99%88%E4%BA%91%E6%9D%BE%20-%200608%20-%20learning%20new%20knowledge%20from%20big%20data.md) | 南京大学社会学系
 * [吴愈晓]() | 南京大学社会学系
 * [卢翠翠]() | 南京大学经济学系
 
