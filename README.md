@@ -23,6 +23,8 @@
 
 * [陈昭全]() | Rutgers University
 
+* [朱春奎](http://www.sirpa.fudan.edu.cn/?p=5460&PersonnelID=582) | 复旦大学
+
 ## Update Research
 * [Social science lines up its biggest challenges | ***Nature** 470, 18-19(2011)*](https://github.com/QihaoTom/Insights_Sparks_SocialScience/blob/master/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E7%9A%84%E5%8D%81%E5%A4%A7%E9%97%AE%E9%A2%98%20%7C%200419.md) 
 
